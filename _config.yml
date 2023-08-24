@@ -28,12 +28,8 @@ search_enabled: false
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Woncheol Jang:
-    - 'https://wcjang.github.io/'
-  Gunhee Kim:
-    - 'https://vision.snu.ac.kr/gunhee/'
-  Jisu Kim:
-    - 'https://pages.saclay.inria.fr/jisu.kim/'
+  ETL:
+    - 'https://myetl.snu.ac.kr/courses/253899'
 footer_content:
 
 # Collections for website data
