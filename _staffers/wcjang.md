@@ -5,6 +5,6 @@ email: wcjang@snu.ac.kr
 website: https://wcjang.github.io/
 photo: jang3.png
 meta:
-  Office Hours: 월수 오후 2시-3시15분
+  Office Hours: 수 오후 4-6시
 ---
 
