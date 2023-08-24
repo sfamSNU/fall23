@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Course Calendar
 ---
 
 9월 4일
