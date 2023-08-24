@@ -8,32 +8,28 @@ seo:
   name: M2480.001200 
 ---
 
-# Just the Class
+# M2480.001200 001 인공지능을 위한 이론과 모델링
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+인공지능의 새로운 통계 방법 및 알고리즘을 개발하는 데에 있어 기계학습이 기반이 된다.
+이 과목에서는 고급 기계학습을 위한 방법론을 이론적 기초와 함께 강의할 예정이다. 또한
+방법론의 실용적 측면과 직관을 통하여 이론적 내용을 제공하여 학생들이 상황에 맞는 적절한
+분석 방법과 각자의 연구 주제에 적합한 분석 도구를 개발하는 데 도움을 주고자 한다. 구체
+적으로 기계학습 연구에 중요한 비모수함수추정, 베이즈 네트워크, 인과추론, 미니맥스 이론,
+집중부등식, 차원축소 등과 같은 주제를 다룰 예정이다.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+## 담당교수와 강의조교
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+### 담당교수:
+- 장원철: wcjang@snu.ac.kr
+- 김건희: gunhee@snu.ac.kr
+- 김지수: jkim92133@gmail.com
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+## 강의시간과 Office Hours
 
-## Getting Started
+### 강의시간 
+월수 오후 2시-3시15분 43-1동 101호
+### Office hours
+장원철: 수 오후 4-6시 25동 323호
+김건희: TBD
+김지수: 월 오후 4-6시 25동 320호
 
-Getting started with Just the Class is simple.
-
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
-
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
