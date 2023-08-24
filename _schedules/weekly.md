@@ -21,22 +21,22 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: 강의
+      - name: Lecture
         start: 2:00 PM
         end: 3:15 PM
         location: 43-1동 101호
-      - name: 김지수 OH
+      - name: Office Hours
         start: 4:00 PM
         end: 6:00 PM
         location: 25동 320호
   - name: Tuesday
   - name: Wednesday
     events:
-      - name: 강의
+      - name: Lecture
         start: 2:00 PM
         end: 3:15 PM
         location: 43-1동 101호
-      - name: 장원철 OH
+      - name: Office Hours
         start: 4:00 PM
         end: 6:00 PM
         location: 25동 320호
