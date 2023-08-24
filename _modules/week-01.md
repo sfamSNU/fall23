@@ -31,7 +31,7 @@ title: Course Calendar
 : [Clustering II](#)
 
 10월 4일
-: **Exam 1**{: .label .label-red }
+: **Exam 1**{: .label .label-green }
   :  **HW 2 due**{: .label .label-red }
 
 10월 9일
@@ -63,7 +63,7 @@ title: Course Calendar
 : [Causality II](#)
 
 11월 8일
-: **Exam 2**{: .label .label-red }
+: **Exam 2**{: .label .label-green }
   :  **HW 4 due**{: .label .label-red }
 
 11월 13일
@@ -96,4 +96,4 @@ title: Course Calendar
 : [Dimension Reduction](#)
 
 12월 13일
-: **Exam 3**{: .label .label-red }
+: **Exam 3**{: .label .label-green }
