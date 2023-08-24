@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: SFAM
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: M2480.001200 
 ---
 
 # Just the Class
