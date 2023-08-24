@@ -38,21 +38,21 @@ description: >-
 
 ## 참고문헌
 
-• Bishop, C. (2006). Pattern Recognition and Machine Learning. Springer. ISBN 978-
+1. Bishop, C. (2006). Pattern Recognition and Machine Learning. Springer. ISBN 978-
 0387310732. (recommended) - Available at https://www.microsoft.com/en-us/
 research/publication/pattern-recognition-machine-learning/?OCID=msr_ebook_
 cbishop_fb.
-• Murphy, K. (2021). Probabilistic Machine Learning: An Introduction. MIT Press.
+2. Murphy, K. (2021). Probabilistic Machine Learning: An Introduction. MIT Press.
 ISBN 978-0-262-046824 (recommended) - Available at https://probml.github.io/
 pml-book/book1.html.
-• Shalev-Shwartz and Ben-David (2014). Understanding Machine Learning: From Theory
+3. Shalev-Shwartz and Ben-David (2014). Understanding Machine Learning: From Theory
 to Algorithms. Cambridge University Press. ISBN 978-1107057135. (recommended) -
 Available at https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/
 understanding-machine-learning-theory-algorithms.pdf
-• Wasserman, L. (2004). All of Statistics: Concise Course in Statistical Inference. Springer.
+4. Wasserman, L. (2004). All of Statistics: Concise Course in Statistical Inference. Springer.
 ISBN 978-0387402727. (recommended) - Available at http://link.springer.com/
 book/10.1007/978-0-387-21736-9 on campus
-• Wasserman, L. (2005). All of Nonparametric Statistics. Springer. ISBN 978-0387251455.
+5. Wasserman, L. (2005). All of Nonparametric Statistics. Springer. ISBN 978-0387251455.
 (recommended) - Available at http://link.springer.com/book/10.1007/0-387-30623-4
 on campus
 
@@ -91,9 +91,12 @@ on campus
 ## 프로그래밍 언어
 
 • 수업 시간에 다른 사람과 대화 등으로 수업을 방해하지 않는다.
+
 • 수업에 늦으면 다른 학생들에게 방해되지 않게 조용하게 들어와 앉는다.
+
 • 전자기기(휴대전화, 아이패드, 컴퓨터 등)는 필기용으로 사용하는 때에만 수업 시간에
 사용할 수 있다.
+
 • 특별한 이유 없이 결석이 잦으면 수업 참여 점수가 0점 처리된다.
 
 
