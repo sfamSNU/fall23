@@ -39,21 +39,18 @@ description: >-
 ## 참고문헌
 
 1. Bishop, C. (2006). Pattern Recognition and Machine Learning. Springer. ISBN 978-
-0387310732. (recommended) - Available at https://www.microsoft.com/en-us/
+0387310732. (recommended) - Available at [https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/?OCID=msr_ebook_cbishop_fb](https://www.microsoft.com/en-us/
 research/publication/pattern-recognition-machine-learning/?OCID=msr_ebook_
-cbishop_fb.
+cbishop_fb).
 2. Murphy, K. (2021). Probabilistic Machine Learning: An Introduction. MIT Press.
-ISBN 978-0-262-046824 (recommended) - Available at https://probml.github.io/
-pml-book/book1.html.
+ISBN 978-0-262-046824 (recommended) - Available at [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html).
 3. Shalev-Shwartz and Ben-David (2014). Understanding Machine Learning: From Theory
 to Algorithms. Cambridge University Press. ISBN 978-1107057135. (recommended) -
-Available at https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/
-understanding-machine-learning-theory-algorithms.pdf
+Available at [https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearningunderstanding-machine-learning-theory-algorithms.pdf](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearningunderstanding-machine-learning-theory-algorithms.pdf)
 4. Wasserman, L. (2004). All of Statistics: Concise Course in Statistical Inference. Springer.
-ISBN 978-0387402727. (recommended) - Available at http://link.springer.com/
-book/10.1007/978-0-387-21736-9 on campus
+ISBN 978-0387402727. (recommended) - Available at [http://link.springer.com/book/10.1007/978-0-387-21736-9](http://link.springer.com/book/10.1007/978-0-387-21736-9) on campus
 5. Wasserman, L. (2005). All of Nonparametric Statistics. Springer. ISBN 978-0387251455.
-(recommended) - Available at http://link.springer.com/book/10.1007/0-387-30623-4
+(recommended) - Available at [http://link.springer.com/book/10.1007/0-387-30623-4](http://link.springer.com/book/10.1007/0-387-30623-4)
 on campus
 
 ## 평가방법
@@ -84,12 +81,8 @@ on campus
 
 ## 프로그래밍 언어
 
-이 과목에서 사용되는 예제는 모두 R 또는 파이썬을 사용하여 분석 결과를 제시할 예정이
-다. R은 통계분석에 최적화된 언어로 Matlab과 비교 시 자료 분석에 있어서 여러가지 장점
-이 있다. R에 관한 다양한 튜터리얼과 참고문헌은 http://www.r-project.org에서 찾아볼
-수 있으며 R에 과한 (조금 오래된) 뉴욕타임스의 기사는 http://www.nytimes.com/2009/-
-01/07/technology/business-computing/07program.html에서 읽을 수 있다. 한국어로 된
-참고문헌으로는 R for Practical Data Analysis at http://r4pda.co.kr/ 이나 권재명 (2017)
-따라하면서 배우는 데이터 과학 (http://dataninja.me/ipds-kr/)을 추천한다.
+이 과목에서 사용되는 예제는 모두 R를 사용하여 분석결과를 제시할 예정이다. R은 통계분석에 최적화된 언어로 파이썬, Matlab과 비교시 자료분석에 있어서 여러가지 장점이 있다. R에 관한 다양한 튜터리얼과 참고문헌은 [http://www.r-project.org](http://www.r-project.org) 에서 찾아볼 수 있으며 R에 과한 (조금 오래된) 뉴욕타임즈의 기사는 [https://www.nytimes.com/2009/01/07/technology/business-computing/07program.html](https://www.nytimes.com/2009/01/07/technology/business-computing/07program.html)에서 읽을 수 있다. 한국어로 된 참고문헌으로는 R for Practical Data Analysis [http://r4pda.co.kr/](http://r4pda.co.kr/) 이나 권재명 (2017) 따라하면서 배우는 데이터 과학 [http://dataninja.me/ipds-kr/](http://dataninja.me/ipds-kr/)을 추천한다.
+
+
 
 
