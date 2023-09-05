@@ -3,7 +3,7 @@ title: Course Calendar
 ---
 
 9월 4일
-: [Introduction and Review](#)
+: [Introduction and Review](/fall23/assets/downloads/Introduction.pdf)
 
 9월 6일
 : [Density Estimation](#)
