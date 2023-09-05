@@ -5,6 +5,6 @@ email: jpoth1729@snu.ac.kr
 website: 
 photo: ta1.jpeg
 meta:
-  Office Hours: TBD
+  Office Hours: TBA
 ---
 
