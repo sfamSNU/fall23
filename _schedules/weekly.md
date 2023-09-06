@@ -39,7 +39,7 @@ schedule:
       - name: Office Hours
         start: 4:00 PM
         end: 6:00 PM
-        location: 25동 320호
+        location: 25동 323호
   - name: Thursday
   - name: Friday
 

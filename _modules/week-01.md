@@ -6,7 +6,7 @@ title: Course Calendar
 : [Introduction and Review](/fall23/assets/downloads/Introduction.pdf)
 
 9월 6일
-: [Density Estimation](#)
+: [Density Estimation](/fall23/assets/downloads/lecture_2.pdf)
 
 9월 11일
 : [Nonparametric Regression I](#)
