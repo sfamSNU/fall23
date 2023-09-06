@@ -6,31 +6,35 @@ title: Course Calendar
 : [Introduction and Review](/fall23/assets/downloads/Introduction.pdf)
 
 9월 6일
-: [Density Estimation](/fall23/assets/downloads/lecture_2.pdf)
+: [Nonparametric Regression I](/fall23/assets/downloads/lecture_2.pdf)
 
 9월 11일
-: [Nonparametric Regression I](#)
-
-9월 13일
 : [Nonparametric Regression II](#)
 
-9월 18일
+9월 13일
 : [High-dimensional Regression](#)
 
-9월 20일
+9월 18일
 : [Classification I](#)
   :  **HW 1 due**{: .label .label-red }
 
-9월 25일
+9월 20일
 : [Classification II](#)
+  :  **HW 1 due**{: .label .label-red }
+
+9월 25일
+: [Density Estimation](#)
 
 9월 27일
 : [Clustering I](#)
 
 10월 2일
-: [Clustering II](#)
+: [임시공휴일](#)
 
 10월 4일
+: [Clustering II](#)
+
+10월 6일
 : **Exam 1**{: .label .label-green }
   :  **HW 2 due**{: .label .label-red }
 
