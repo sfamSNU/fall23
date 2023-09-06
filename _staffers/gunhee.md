@@ -5,6 +5,6 @@ email: gunhee@snu.ac.kr
 website: https://vision.snu.ac.kr/gunhee/
 photo: IMG_9769.jpg
 meta:
-  Office Hours: TBA
+  Office Hours: TBD
 ---
 
