@@ -16,7 +16,6 @@ title: Course Calendar
 
 9월 18일
 : [Classification I](#)
-  :  **HW 1 due**{: .label .label-red }
 
 9월 20일
 : [Classification II](#)
