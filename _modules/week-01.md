@@ -9,7 +9,7 @@ title: Course Calendar
 : [Nonparametric Regression I](/fall23/assets/downloads/lecture_2.pdf)
 
 9월 11일
-: [Nonparametric Regression II](#)
+: [Nonparametric Regression II](/fall23/assets/downloads/lecture_2B.pdf)
 
 9월 13일
 : [High-dimensional Regression](#)
