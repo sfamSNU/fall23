@@ -70,10 +70,10 @@ title: Course Calendar
   :  **HW 4 due**{: .label .label-red }
 
 11월 13일
-: [Nonparametric Bayesian Inference](#)
+: [Introduction](/fall23/assets/downloads/module3_intro.pdf), [Nonparametric Bayesian Inference](/fall23/assets/downloads/nonparbayes.pdf)
 
 11월 15일
-: [Concentration Inequality](#)
+: [Nonparametric Bayesian Inference](/fall23/assets/downloads/nonparbayes.pdf), [Concentration Inequality](/fall23/assets/downloads/concentration.pdf)
 
 11월 20일
 : [Minimax Theory I](#)
