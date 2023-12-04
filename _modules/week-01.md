@@ -76,27 +76,27 @@ title: Course Calendar
 : [Nonparametric Bayesian Inference](/fall23/assets/downloads/nonparbayes.pdf), [Concentration Inequality](/fall23/assets/downloads/concentration.pdf)
 
 11월 20일
-: [Minimax Theory I](#)
+: [Concentration Inequality](/fall23/assets/downloads/concentration.pdf)
 
 11월 22일
-: [Minimax Theory II](#)
-  :  **HW 5 due**{: .label .label-red }
+: [Concentration Inequality](/fall23/assets/downloads/concentration.pdf)
 
 11월 27일
-: [Conformal Prediction](#)
+: [Concentration Inequality](/fall23/assets/downloads/concentration.pdf)
 
 11월 29일
-: [Differential Privacy](#)
+: [Concentration Inequality](/fall23/assets/downloads/concentration.pdf), [Clustering](/fall23/assets/downloads/clustering.pdf)
+:  **HW 5 due**{: .label .label-red }
 
 12월 4일
-: [Wasserstein Distance and Optimal Transport](#)
+: [Clustering](/fall23/assets/downloads/clustering.pdf), [Minimax Theory](/fall23/assets/downloads/minimax.pdf)
 
 12월 6일
-: [High-dimensional Two Sample Testing](#)
-  :  **HW 6 due**{: .label .label-red }
+: [Conformal Prediction](#), [Differential Privacy](#)
 
 12월 11일
-: [Dimension Reduction](#)
+: [Wasserstein Distance and Optimal Transport](#), [High-dimensional Two Sample Testing](#), [Dimension Reduction](#)
+:  **HW 6 due**{: .label .label-red }
 
 12월 13일
 : **Exam 3**{: .label .label-green }
