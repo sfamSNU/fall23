@@ -92,11 +92,14 @@ title: Course Calendar
 : [Clustering](/fall23/assets/downloads/clustering.pdf), [Minimax Theory](/fall23/assets/downloads/minimax.pdf)
 
 12월 6일
-: [Conformal Prediction](#), [Differential Privacy](#)
+: [Minimax Theory](/fall23/assets/downloads/minimax.pdf)
 
 12월 11일
-: [Wasserstein Distance and Optimal Transport](#), [High-dimensional Two Sample Testing](#), [Dimension Reduction](#)
+: [Conformal Prediction](/fall23/assets/downloads/conformal.pdf), [Differential Privacy](/fall23/assets/downloads/diff_privacy.pdf), [High-dimensional Two Sample Testing](/fall23/assets/downloads/high_two_sample.pdf)
 :  **HW 6 due**{: .label .label-red }
 
 12월 13일
 : **Exam 3**{: .label .label-green }
+
+12월 ??일
+: [Wasserstein Distance and Optimal Transport](#), [Dimension Reduction](#)
